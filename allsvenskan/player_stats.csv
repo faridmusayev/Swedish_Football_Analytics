@@ -1,0 +1,484 @@
+Season,Squad,Comp,Player,Nation,Pos,Age,MP_Playing_Time,Starts_Playing_Time,Min_Playing_Time,Mins_Per_90_Playing_Time,Gls,Ast,G_minus_PK,PK,PKatt,CrdY,CrdR,Gls_Per_Minutes,Ast_Per_Minutes,G+A_Per_Minutes,G_minus_PK_Per_Minutes,G+A_minus_PK_Per_Minutes,PlayerURL
+NA,2021 Malmö,,Anel Ahmedhodzic,BIH,DF,21,25,25,2250,25,1,1,1,0,0,6,0,0.04,0.04,0.08,0.04,0.08,https://fbref.com/en/players/eab957a3/Anel-Ahmedhodzic
+NA,2021 Malmö,,Antonio Čolak,CRO,FW,27,26,24,2123,23.6,14,4,12,2,3,3,0,0.59,0.17,0.76,0.51,0.68,https://fbref.com/en/players/bfde3de5/Antonio-Colak
+NA,2021 Malmö,,Veljko Birmančević,SRB,"MF,FW",22,28,23,1958,21.8,9,2,9,0,0,2,0,0.41,0.09,0.51,0.41,0.51,https://fbref.com/en/players/636247ca/Veljko-Birmancevic
+NA,2021 Malmö,,Jo Inge Berget,NOR,"MF,FW",30,27,22,2012,22.4,5,7,4,1,1,3,0,0.22,0.31,0.54,0.18,0.49,https://fbref.com/en/players/f512a009/Jo-Inge-Berget
+NA,2021 Malmö,,Johan Dahlin,SWE,GK,34,19,19,1665,18.5,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/a04e2dd2/Johan-Dahlin
+NA,2021 Malmö,,Franz Brorsson,SWE,DF,25,24,18,1629,18.1,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/08d37c53/Franz-Brorsson
+NA,2021 Malmö,,Anders Christiansen,DEN,MF,30,22,18,1481,16.5,6,9,4,2,2,4,0,0.36,0.55,0.91,0.24,0.79,https://fbref.com/en/players/770ebf00/Anders-Christiansen
+NA,2021 Malmö,,Eric Larsson,SWE,"DF,MF",29,23,17,1634,18.2,0,6,0,0,0,4,0,0,0.33,0.33,0,0.33,https://fbref.com/en/players/8474cb83/Eric-Larsson
+NA,2021 Malmö,,Lasse Nielsen,DEN,DF,33,20,16,1484,16.5,1,1,1,0,0,3,0,0.06,0.06,0.12,0.06,0.12,https://fbref.com/en/players/06e5b0e4/Lasse-Nielsen
+NA,2021 Malmö,,Adi Nalic,BIH,"MF,FW",23,29,15,1575,17.5,7,3,7,0,0,5,0,0.4,0.17,0.57,0.4,0.57,https://fbref.com/en/players/ad597bf7/Adi-Nalic
+NA,2021 Malmö,,Erdal Rakip,MKD,MF,24,25,15,1539,17.1,2,2,2,0,0,6,0,0.12,0.12,0.23,0.12,0.23,https://fbref.com/en/players/e150254d/Erdal-Rakip
+NA,2021 Malmö,,Bonke Innocent,NGA,MF,25,17,15,1210,13.4,0,0,0,0,0,6,0,0,0,0,0,0,https://fbref.com/en/players/546bb36e/Bonke-Innocent
+NA,2021 Malmö,,Søren Rieks,DEN,MF,33,18,14,1107,12.3,6,1,6,0,0,3,0,0.49,0.08,0.57,0.49,0.57,https://fbref.com/en/players/572498c7/Soren-Rieks
+NA,2021 Malmö,,Jonas Knudsen,DEN,DF,28,12,12,1039,11.5,1,1,1,0,0,2,0,0.09,0.09,0.17,0.09,0.17,https://fbref.com/en/players/ec48abb1/Jonas-Knudsen
+NA,2021 Malmö,,Felix Beijmo,SWE,DF,23,14,11,978,10.9,0,1,0,0,0,1,0,0,0.09,0.09,0,0.09,https://fbref.com/en/players/71115017/Felix-Beijmo
+NA,2021 Malmö,,Martin Olsson,SWE,"DF,MF",32,13,10,863,9.6,0,1,0,0,0,1,0,0,0.1,0.1,0,0.1,https://fbref.com/en/players/2f72f79e/Martin-Olsson
+NA,2021 Malmö,,Marko Johansson,SWE,GK,22,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/d0975397/Marko-Johansson
+NA,2021 Malmö,,Oscar Lewicki,SWE,MF,28,11,8,605,6.7,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/0c09c984/Oscar-Lewicki
+NA,2021 Malmö,,Sergio Peña,PER,MF,25,9,7,582,6.5,0,0,0,0,0,4,0,0,0,0,0,0,https://fbref.com/en/players/eda8506a/Sergio-Pena
+NA,2021 Malmö,,Ola Toivonen,SWE,"MF,FW",34,8,7,510,5.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/de4fe7a2/Ola-Toivonen
+NA,2021 Malmö,,Niklas Moisander,FIN,DF,35,9,6,609,6.8,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/00844823/Niklas-Moisander
+NA,2021 Malmö,,Sebastian Nanasi,SWE,"MF,FW",18,13,6,590,6.6,1,0,1,0,0,0,0,0.15,0,0.15,0.15,0.15,https://fbref.com/en/players/ce747d2a/Sebastian-Nanasi
+NA,2021 Malmö,,Malik Abubakari,GHA,FW,20,15,5,543,6,3,1,3,0,0,4,0,0.5,0.17,0.66,0.5,0.66,https://fbref.com/en/players/47aaf574/Malik-Abubakari
+NA,2021 Malmö,,Pavle Vagić,SWE,MF,21,7,5,490,5.4,0,1,0,0,0,2,0,0,0.18,0.18,0,0.18,https://fbref.com/en/players/8f906c5f/Pavle-Vagic
+NA,2021 Malmö,,Ismael Diawara,MLI,GK,26,3,2,225,2.5,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/a9107589/Ismael-Diawara
+NA,2021 Malmö,,Peter Gwargis,SWE,MF,20,5,1,85,0.9,0,0,0,0,0,0,1,0,0,0,0,0,https://fbref.com/en/players/3fd07ca3/Peter-Gwargis
+NA,2021 Malmö,,Amin Sarr,SWE,FW,19,3,0,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/d5326924/Amin-Sarr
+NA,2021 Malmö,,Noah Eile,SWE,DF,18,3,0,26,0.3,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/e1574c2d/Noah-Eile
+NA,2021 Malmö,,Markus Björkvist,SWE,MF,17,4,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/848b190c/Markus-Bjorkvist
+NA,2021 Malmö,,Emil Lindman,SWE,DF,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/1be8c1b9/Emil-Lindman
+NA,2021 Malmö,,Mattias Nilsson,SWE,GK,21,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/e5f58241/Mattias-Nilsson
+NA,2021 Malmö,,Patriot Sejdiu,KVX,FW,20,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/57d9707f/Patriot-Sejdiu
+NA,2021 AIK Stockholm,,Bilal Hussein,SWE,MF,20,30,30,2636,29.3,1,1,1,0,0,2,0,0.03,0.03,0.07,0.03,0.07,https://fbref.com/en/players/aff07507/Bilal-Hussein
+NA,2021 AIK Stockholm,,Sotirios Papagiannopoulos,SWE,DF,30,29,29,2594,28.8,2,0,2,0,0,5,0,0.07,0,0.07,0.07,0.07,https://fbref.com/en/players/da617483/Sotirios-Papagiannopoulos
+NA,2021 AIK Stockholm,,Eric Ouma,KEN,DF,24,29,29,2593,28.8,1,5,1,0,0,4,0,0.03,0.17,0.21,0.03,0.21,https://fbref.com/en/players/0c9b07a7/Eric-Ouma
+NA,2021 AIK Stockholm,,Nicolás Stefanelli,ARG,"FW,MF",26,29,28,2211,24.6,12,1,12,0,0,2,1,0.49,0.04,0.53,0.49,0.53,https://fbref.com/en/players/21a529cf/Nicolas-Stefanelli
+NA,2021 AIK Stockholm,,Mikael Lustig,SWE,DF,34,27,27,2412,26.8,0,2,0,0,0,3,0,0,0.07,0.07,0,0.07,https://fbref.com/en/players/54c9ed15/Mikael-Lustig
+NA,2021 AIK Stockholm,,Alexander Milošević,SWE,DF,29,27,26,2359,26.2,3,1,3,0,0,5,0,0.11,0.04,0.15,0.11,0.15,https://fbref.com/en/players/2f065e3a/Alexander-Milosevic
+NA,2021 AIK Stockholm,,Seb Larsson,SWE,MF,35,25,25,2209,24.5,3,8,2,1,1,12,0,0.12,0.33,0.45,0.08,0.41,https://fbref.com/en/players/b26efc36/Seb-Larsson
+NA,2021 AIK Stockholm,,Nabil Bahoui,SWE,"FW,MF",29,27,21,1819,20.2,10,0,10,0,0,2,0,0.49,0,0.49,0.49,0.49,https://fbref.com/en/players/8689dccc/Nabil-Bahoui
+NA,2021 AIK Stockholm,,Zachary Elbouzedi,IRL,MF,22,20,18,1580,17.6,1,3,1,0,0,2,0,0.06,0.17,0.23,0.06,0.23,https://fbref.com/en/players/1a5ed92d/Zachary-Elbouzedi
+NA,2021 AIK Stockholm,,Henok Goitom,ERI,FW,36,29,17,1645,18.3,3,3,3,0,0,0,0,0.16,0.16,0.33,0.16,0.33,https://fbref.com/en/players/c3680236/Henok-Goitom
+NA,2021 AIK Stockholm,,Budimir Janošević,SRB,GK,31,16,16,1440,16,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/26d26396/Budimir-Janosevic
+NA,2021 AIK Stockholm,,Kristoffer Nordfeldt,SWE,GK,31,14,14,1260,14,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/78549904/Kristoffer-Nordfeldt
+NA,2021 AIK Stockholm,,Erik Ring,SWE,MF,18,17,10,818,9.1,0,3,0,0,0,1,0,0,0.33,0.33,0,0.33,https://fbref.com/en/players/9bc48002/Erik-Ring
+NA,2021 AIK Stockholm,,Saku Ylätupa,FIN,"MF,FW",21,11,10,796,8.8,1,3,1,0,0,2,0,0.11,0.34,0.45,0.11,0.45,https://fbref.com/en/players/ed87c761/Saku-Ylatupa
+NA,2021 AIK Stockholm,,Filip Rogić,SWE,"MF,DF",27,16,8,772,8.6,2,0,2,0,0,1,0,0.23,0,0.23,0.23,0.23,https://fbref.com/en/players/57abcd1a/Filip-Rogic
+NA,2021 AIK Stockholm,,Bojan Radulovic,SRB,FW,21,26,6,710,7.9,3,1,3,0,0,1,0,0.38,0.13,0.51,0.38,0.51,https://fbref.com/en/players/cbeed9e6/Bojan-Radulovic
+NA,2021 AIK Stockholm,,Ebenezer Ofori,GHA,"MF,DF",25,16,4,435,4.8,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/a5d77c4e/Ebenezer-Ofori
+NA,2021 AIK Stockholm,,Tom Strannegard,SWE,"MF,DF",18,14,3,362,4,1,1,1,0,0,1,0,0.25,0.25,0.5,0.25,0.5,https://fbref.com/en/players/e2da3e4e/Tom-Strannegard
+NA,2021 AIK Stockholm,,Yasin Ayari,SWE,MF,17,12,3,300,3.3,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/f173303a/Yasin-Ayari
+NA,2021 AIK Stockholm,,Per Karlsson,SWE,DF,35,8,2,206,2.3,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/766caf38/Per-Karlsson
+NA,2021 AIK Stockholm,,Eric Kahl,SWE,DF,19,3,2,188,2.1,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/e44381c2/Eric-Kahl
+NA,2021 AIK Stockholm,,Stefan Silva,SWE,MF,30,5,1,156,1.7,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/86cad0e9/Stefan-Silva
+NA,2021 AIK Stockholm,,Jetmir Haliti,SWE,DF,24,4,1,144,1.6,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/7a381b1f/Jetmir-Haliti
+NA,2021 AIK Stockholm,,Amar Ahmed,SWE,MF,16,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/22396615/Amar-Ahmed
+NA,2021 AIK Stockholm,,Rasmus Bonde,SWE,DF,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/7e9dd95e/Rasmus-Bonde
+NA,2021 AIK Stockholm,,Samuel Dahl,SWE,MF,20,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/bbe7d20b/Samuel-Dahl
+NA,2021 AIK Stockholm,,Ahmad Faqa,SWE,MF,18,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/0f5c93cc/Ahmad-Faqa
+NA,2021 AIK Stockholm,,Jakob Haugaard,DEN,GK,28,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/142741bb/Jakob-Haugaard
+NA,2021 AIK Stockholm,,Calvin Kabuye,SWE,MF,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/b918d238/Calvin-Kabuye
+NA,2021 AIK Stockholm,,Felix Michel,LIB,MF,26,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/1621858d/Felix-Michel
+NA,2021 AIK Stockholm,,Joshua Sivertsen,SWE,MF,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/fe81d915/Joshua-Sivertsen
+NA,2021 AIK Stockholm,,Kyriakos Stamatopoulos,CAN,GK,41,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/0be1b70f/Kyriakos-Stamatopoulos
+NA,2021 Djurgården,,Magnus Eriksson,SWE,MF,30,30,30,2700,30,5,13,5,0,2,2,0,0.17,0.43,0.6,0.17,0.6,https://fbref.com/en/players/5571f8b5/Magnus-Eriksson
+NA,2021 Djurgården,,Edward Chilufya,ZAM,FW,21,29,29,2314,25.7,8,3,8,0,0,1,0,0.31,0.12,0.43,0.31,0.43,https://fbref.com/en/players/b7b27de0/Edward-Chilufya
+NA,2021 Djurgården,,Elliot Käck,SWE,DF,31,28,28,2520,28,0,3,0,0,0,3,0,0,0.11,0.11,0,0.11,https://fbref.com/en/players/e8f80c49/Elliot-Kack
+NA,2021 Djurgården,,Jacob Une Larsson,SWE,DF,26,28,28,2374,26.4,3,0,3,0,0,5,0,0.11,0,0.11,0.11,0.11,https://fbref.com/en/players/b45672e0/Jacob-Une-Larsson
+NA,2021 Djurgården,,Hampus Finndell,SWE,MF,20,26,26,2184,24.3,3,0,3,0,0,5,0,0.12,0,0.12,0.12,0.12,https://fbref.com/en/players/5afc236c/Hampus-Finndell
+NA,2021 Djurgården,,Rasmus Schüller,FIN,MF,29,26,26,2121,23.6,0,1,0,0,0,7,1,0,0.04,0.04,0,0.04,https://fbref.com/en/players/0e624c72/Rasmus-Schuller
+NA,2021 Djurgården,,Hjalmar Ekdal,SWE,DF,22,26,25,2234,24.8,4,0,4,0,0,3,0,0.16,0,0.16,0.16,0.16,https://fbref.com/en/players/3d554589/Hjalmar-Ekdal
+NA,2021 Djurgården,,Kalle Holmberg,SWE,FW,27,24,21,1524,16.9,2,4,2,0,0,3,0,0.12,0.24,0.35,0.12,0.35,https://fbref.com/en/players/1b7acd94/Kalle-Holmberg
+NA,2021 Djurgården,,Haris Radetinac,BIH,"FW,DF",35,29,20,1885,20.9,3,4,3,0,0,1,0,0.14,0.19,0.33,0.14,0.33,https://fbref.com/en/players/76c24535/Haris-Radetinac
+NA,2021 Djurgården,,Jacob Zetterström,SWE,GK,22,19,19,1710,19,0,1,0,0,0,1,0,0,0.05,0.05,0,0.05,https://fbref.com/en/players/ac5120d8/Jacob-Zetterstrom
+NA,2021 Djurgården,,Nicklas Bärkroth,SWE,FW,29,28,17,1502,16.7,4,4,4,0,0,0,0,0.24,0.24,0.48,0.24,0.48,https://fbref.com/en/players/7635ba42/Nicklas-Barkroth
+NA,2021 Djurgården,,Aslak Witry,NOR,DF,24,14,14,1260,14,5,1,3,2,2,2,0,0.36,0.07,0.43,0.21,0.29,https://fbref.com/en/players/3f30f12a/Aslak-Witry
+NA,2021 Djurgården,,Jesper Löfgren,SWE,DF,23,24,11,1308,14.5,1,0,1,0,0,1,0,0.07,0,0.07,0.07,0.07,https://fbref.com/en/players/c02fedde/Jesper-Lofgren
+NA,2021 Djurgården,,Joel Asoro,SWE,FW,21,26,11,1002,11.1,3,2,3,0,0,1,0,0.27,0.18,0.45,0.27,0.45,https://fbref.com/en/players/13e827f8/Joel-Asoro
+NA,2021 Djurgården,,Aleksandr Vasyutin,RUS,GK,25,10,10,835,9.3,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/61911828/Aleksandr-Vasyutin
+NA,2021 Djurgården,,Emmanuel Banda,ZAM,"MF,FW",23,22,5,700,7.8,4,0,4,0,0,2,0,0.51,0,0.51,0.51,0.51,https://fbref.com/en/players/e0fdefca/Emmanuel-Banda
+NA,2021 Djurgården,,Jesper Nyholm,PHI,DF,27,10,4,368,4.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/ea8cf8bb/Jesper-Nyholm
+NA,2021 Djurgården,,Curtis Edwards,ENG,MF,27,7,4,331,3.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/3480cb6b/Curtis-Edwards
+NA,2021 Djurgården,,Leo Cornic,NOR,DF,20,7,1,208,2.3,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/b3f8e966/Leo-Cornic
+NA,2021 Djurgården,,Tommi Vaiho,SWE,GK,32,2,1,155,1.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/8610da59/Tommi-Vaiho
+NA,2021 Djurgården,,Emir Kujović,SWE,FW,32,11,0,179,2,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/f120942c/Emir-Kujovic
+NA,2021 Djurgården,,Albion Ademi,ALB,FW,21,8,0,101,1.1,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/424471b0/Albion-Ademi
+NA,2021 Djurgården,,Elias Andersson,SWE,MF,25,2,0,70,0.8,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/d0d3bcc7/Elias-Andersson
+NA,2021 Djurgården,,Isak Hien,SWE,DF,22,5,0,35,0.4,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/12806697/Isak-Hien
+NA,2021 Djurgården,,David Celic,SWE,GK,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/7dec0efa/David-Celic
+NA,2021 Djurgården,,Melker Jonsson,SWE,DF,18,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/00ac1b19/Melker-Jonsson
+NA,2021 Elfsborg,,Jeppe Okkels,DEN,"FW,MF",21,30,30,2078,23.1,8,1,8,0,0,1,0,0.35,0.04,0.39,0.35,0.39,https://fbref.com/en/players/c3b0f15f/Jeppe-Okkels
+NA,2021 Elfsborg,,André Rømer,DEN,MF,27,27,27,2346,26.1,1,3,0,1,1,9,0,0.04,0.12,0.15,0,0.12,https://fbref.com/en/players/fa6d26d9/Andre-Romer
+NA,2021 Elfsborg,,Simon Strand,SWE,DF,27,26,26,2281,25.3,0,2,0,0,0,6,1,0,0.08,0.08,0,0.08,https://fbref.com/en/players/2df964cf/Simon-Strand
+NA,2021 Elfsborg,,Tim Rönning,SWE,GK,21,25,25,2238,24.9,0,0,0,0,0,3,1,0,0,0,0,0,https://fbref.com/en/players/8e833ce2/Tim-Ronning
+NA,2021 Elfsborg,,Johan Larsson,SWE,DF,30,25,25,2174,24.2,3,5,3,0,0,4,0,0.12,0.21,0.33,0.12,0.33,https://fbref.com/en/players/fe006f82/Johan-Larsson
+NA,2021 Elfsborg,,Per Frick,SWE,FW,28,27,25,2086,23.2,8,7,8,0,1,7,0,0.35,0.3,0.65,0.35,0.65,https://fbref.com/en/players/374368f1/Per-Frick
+NA,2021 Elfsborg,,Frederik Holst,DEN,MF,26,26,25,1973,21.9,1,4,1,0,0,8,1,0.05,0.18,0.23,0.05,0.23,https://fbref.com/en/players/7f32741e/Frederik-Holst
+NA,2021 Elfsborg,,Leo Väisänen,FIN,DF,23,23,23,2046,22.7,3,1,3,0,0,3,0,0.13,0.04,0.18,0.13,0.18,https://fbref.com/en/players/93b56ba5/Leo-Vaisanen
+NA,2021 Elfsborg,,Maudo Jarjué,GAM,DF,23,19,19,1623,18,1,0,1,0,0,1,1,0.06,0,0.06,0.06,0.06,https://fbref.com/en/players/d4945a62/Maudo-Jarjue
+NA,2021 Elfsborg,,Christopher McVey,SWE,DF,23,23,17,1617,18,0,0,0,0,0,3,0,0,0,0,0,0,https://fbref.com/en/players/149d8165/Christopher-McVey
+NA,2021 Elfsborg,,Rasmus Alm,SWE,"FW,MF",25,24,17,1495,16.6,6,2,6,0,0,4,0,0.36,0.12,0.48,0.36,0.48,https://fbref.com/en/players/78506575/Rasmus-Alm
+NA,2021 Elfsborg,,Simon Olsson,SWE,MF,23,19,15,1404,15.6,2,3,2,0,0,1,0,0.13,0.19,0.32,0.13,0.32,https://fbref.com/en/players/0a4a1821/Simon-Olsson
+NA,2021 Elfsborg,,Robert Gojani,SWE,MF,28,15,14,1210,13.4,1,3,1,0,0,2,0,0.07,0.22,0.3,0.07,0.3,https://fbref.com/en/players/65465292/Robert-Gojani
+NA,2021 Elfsborg,,Marokhy Ndione,SWE,"MF,FW",21,22,9,959,10.7,5,3,4,1,1,4,0,0.47,0.28,0.75,0.38,0.66,https://fbref.com/en/players/227691ea/Marokhy-Ndione
+NA,2021 Elfsborg,,Alexander Bernhardsson,SWE,"FW,MF",22,21,7,801,8.9,4,3,4,0,0,2,0,0.45,0.34,0.79,0.45,0.79,https://fbref.com/en/players/dea1d183/Alexander-Bernhardsson
+NA,2021 Elfsborg,,Jacob Ondrejka,SWE,MF,18,28,6,802,8.9,3,1,3,0,0,0,0,0.34,0.11,0.45,0.34,0.45,https://fbref.com/en/players/752e09ed/Jacob-Ondrejka
+NA,2021 Elfsborg,,Joseph Okumu,KEN,DF,23,7,6,536,6,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/039f1983/Joseph-Okumu
+NA,2021 Elfsborg,,Hákon Rafn Valdimarsson,ISL,GK,19,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/7e76b78b/Hakon-Rafn-Valdimarsson
+NA,2021 Elfsborg,,Oliver Zandén,SWE,DF,19,5,4,379,4.2,0,1,0,0,0,1,0,0,0.24,0.24,0,0.24,https://fbref.com/en/players/72d4922b/Oliver-Zanden
+NA,2021 Elfsborg,,Samuel Holmén,SWE,MF,36,23,2,492,5.5,1,0,0,1,1,5,0,0.18,0,0.18,0,0,https://fbref.com/en/players/a54bb0fb/Samuel-Holmen
+NA,2021 Elfsborg,,Emmanuel Boateng,GHA,MF,23,4,2,148,1.6,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/efad6707/Emmanuel-Boateng
+NA,2021 Elfsborg,,Sveinn Guðjohnsen,ISL,FW,22,11,1,155,1.7,3,0,3,0,0,1,1,1.74,0,1.74,1.74,1.74,https://fbref.com/en/players/6a7bdb3f/Sveinn-Gudjohnsen
+NA,2021 Elfsborg,,Ahmed Qasem,SWE,MF,17,6,0,119,1.3,0,1,0,0,0,0,0,0,0.76,0.76,0,0.76,https://fbref.com/en/players/27219ecb/Ahmed-Qasem
+NA,2021 Elfsborg,,Noah Söderberg,SWE,MF,19,6,0,86,1,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/23562628/Noah-Soderberg
+NA,2021 Elfsborg,,Gustaf Lagerbielke,SWE,DF,20,2,0,83,0.9,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/9e39fa2d/Gustaf-Lagerbielke
+NA,2021 Elfsborg,,Jack Cooper Love,SWE,FW,19,6,0,35,0.4,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/0b6360b0/Jack-Cooper-Love
+NA,2021 Elfsborg,,Gustav Broman,SWE,DF,19,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/8565576d/Gustav-Broman
+NA,2021 Elfsborg,,Mathias Dyngeland,NOR,GK,25,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/00a0b181/Mathias-Dyngeland
+NA,2021 Elfsborg,,Ludvig Målberg,SWE,GK,18,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/f21b61cc/Ludvig-Malberg
+NA,2021 Hammarby,,Mads Fenger,DEN,"DF,MF",30,29,28,2543,28.3,1,4,1,0,0,5,0,0.04,0.14,0.18,0.04,0.18,https://fbref.com/en/players/df894060/Mads-Fenger
+NA,2021 Hammarby,,Gustav Ludwigson,SWE,"FW,MF",27,30,28,2501,27.8,11,5,11,0,0,1,0,0.4,0.18,0.58,0.4,0.58,https://fbref.com/en/players/585fe2f8/Gustav-Ludwigson
+NA,2021 Hammarby,,Mohanad Jeahze,IRQ,"MF,DF",23,27,27,2309,25.7,1,7,1,0,0,4,0,0.04,0.27,0.31,0.04,0.31,https://fbref.com/en/players/ea93bcd9/Mohanad-Jeahze
+NA,2021 Hammarby,,Darijan Bojanić,SWE,MF,26,29,23,1959,21.8,1,3,1,0,1,5,0,0.05,0.14,0.18,0.05,0.18,https://fbref.com/en/players/aa09d373/Darijan-Bojanic
+NA,2021 Hammarby,,Astrit Seljmani,KVX,FW,23,26,23,1952,21.7,9,6,8,1,1,6,0,0.41,0.28,0.69,0.37,0.65,https://fbref.com/en/players/830a34ec/Astrit-Seljmani
+NA,2021 Hammarby,,David Ousted,DEN,GK,35,22,21,1907,21.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/28269907/David-Ousted
+NA,2021 Hammarby,,Akinkunmi Amoo,NGA,"FW,MF",18,29,21,1844,20.5,9,6,8,1,2,2,0,0.44,0.29,0.73,0.39,0.68,https://fbref.com/en/players/bc2d4118/Akinkunmi-Amoo
+NA,2021 Hammarby,,Jón Guðni Fjóluson,ISL,DF,31,21,21,1816,20.2,1,0,1,0,0,2,0,0.05,0,0.05,0.05,0.05,https://fbref.com/en/players/7b8ff0ac/Jon-Gudni-Fjoluson
+NA,2021 Hammarby,,Jeppe Andersen,DEN,MF,28,26,20,1848,20.5,2,1,2,0,0,5,0,0.1,0.05,0.15,0.1,0.15,https://fbref.com/en/players/aadbb7bc/Jeppe-Andersen
+NA,2021 Hammarby,,Bjørn Paulsen,DEN,DF,29,20,18,1632,18.1,2,1,2,0,0,2,0,0.11,0.06,0.17,0.11,0.17,https://fbref.com/en/players/3f88e797/Bjorn-Paulsen
+NA,2021 Hammarby,,Aziz Ouattara,CIV,"MF,DF",20,24,17,1480,16.4,2,0,2,0,0,6,0,0.12,0,0.12,0.12,0.12,https://fbref.com/en/players/d26727b4/Aziz-Ouattara
+NA,2021 Hammarby,,Simon Sandberg,SWE,"DF,MF",26,24,16,1487,16.5,1,1,1,0,0,2,0,0.06,0.06,0.12,0.06,0.12,https://fbref.com/en/players/05b00fef/Simon-Sandberg
+NA,2021 Hammarby,,Vladimir Rodić,MNE,"MF,DF",27,21,12,1057,11.7,1,1,1,0,0,0,0,0.09,0.09,0.17,0.09,0.17,https://fbref.com/en/players/40c965a4/Vladimir-Rodic
+NA,2021 Hammarby,,Richard Magyar,SWE,DF,29,15,11,937,10.4,1,0,1,0,0,3,0,0.1,0,0.1,0.1,0.1,https://fbref.com/en/players/61e6f01e/Richard-Magyar
+NA,2021 Hammarby,,Abdul Khalili,SWE,MF,28,13,10,840,9.3,4,2,3,1,1,4,0,0.43,0.21,0.64,0.32,0.54,https://fbref.com/en/players/668c0227/Abdul-Khalili
+NA,2021 Hammarby,,Williot Swedberg,SWE,MF,16,19,8,756,8.4,2,1,2,0,0,2,0,0.24,0.12,0.36,0.24,0.36,https://fbref.com/en/players/184fe4b2/Williot-Swedberg
+NA,2021 Hammarby,,Oliver Dovin,SWE,GK,18,8,8,703,7.8,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/9f12e0f8/Oliver-Dovin
+NA,2021 Hammarby,,Aimar Sher,SWE,MF,18,10,5,472,5.2,0,0,0,0,0,5,0,0,0,0,0,0,https://fbref.com/en/players/ef301f96/Aimar-Sher
+NA,2021 Hammarby,,David Accam,GHA,"FW,MF",30,13,4,461,5.1,1,1,1,0,0,2,0,0.2,0.2,0.39,0.2,0.39,https://fbref.com/en/players/f5220ece/David-Accam
+NA,2021 Hammarby,,Aljoša Matko,SVN,"FW,MF",20,13,4,460,5.1,2,1,2,0,0,2,0,0.39,0.2,0.59,0.39,0.59,https://fbref.com/en/players/9cac2edf/Aljosa-Matko
+NA,2021 Hammarby,,Paulinho,BRA,FW,34,11,2,310,3.4,1,0,1,0,0,2,0,0.29,0,0.29,0.29,0.29,https://fbref.com/en/players/b5b8cc43/Paulinho
+NA,2021 Hammarby,,Davor Blažević,SWE,GK,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/afbb68eb/Davor-Blazevic
+NA,2021 Hammarby,,Bayéré Junior Loué,CIV,FW,20,5,1,75,0.8,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/fbd12242/Bayere-Junior-Loue
+NA,2021 Hammarby,,Axel Sjöberg,SWE,MF,20,2,1,67,0.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/3774bc38/Axel-Sjoberg
+NA,2021 Hammarby,,Mayckel Lahdo,SWE,FW,18,7,0,133,1.5,0,1,0,0,0,1,0,0,0.68,0.68,0,0.68,https://fbref.com/en/players/6b390f32/Mayckel-Lahdo
+NA,2021 Hammarby,,Jusef Erabi,SWE,FW,17,2,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/5106b69d/Jusef-Erabi
+NA,2021 Hammarby,,Dennis Widgren,SWE,"DF,MF",26,2,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/512a52c6/Dennis-Widgren
+NA,2021 Hammarby,,Ben Engdahl,SWE,DF,17,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/366a125e/Ben-Engdahl
+NA,2021 Hammarby,,Abdul-Halik Hudu,GHA,MF,20,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/4a26a7a0/Abdul-Halik-Hudu
+NA,2021 Hammarby,,Filston Mawana,SWE,FW,20,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/4bb384a8/Filston-Mawana
+NA,2021 Hammarby,,Josefat Mendes,SWE,DF,18,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/f882b0a1/Josefat-Mendes
+NA,2021 Hammarby,,Ian Pettersson,SWE,GK,18,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/438f3dac/Ian-Pettersson
+NA,2021 Kalmar,,Oliver Berg,NOR,"FW,MF",27,30,29,2597,28.9,12,5,9,3,3,1,0,0.42,0.17,0.59,0.31,0.49,https://fbref.com/en/players/6053df96/Oliver-Berg
+NA,2021 Kalmar,,Romário,BRA,MF,35,29,29,2562,28.5,4,2,4,0,0,4,0,0.14,0.07,0.21,0.14,0.21,https://fbref.com/en/players/596e48ce/Romario
+NA,2021 Kalmar,,Piotr Johansson,SWE,"MF,DF",25,29,28,2530,28.1,0,4,0,0,0,2,0,0,0.14,0.14,0,0.14,https://fbref.com/en/players/5a471a3e/Piotr-Johansson
+NA,2021 Kalmar,,Carl Gustafsson,SWE,MF,20,29,28,2507,27.9,0,1,0,0,0,2,0,0,0.04,0.04,0,0.04,https://fbref.com/en/players/c7834633/Carl-Gustafsson
+NA,2021 Kalmar,,Lars Sætra,NOR,DF,29,28,28,2504,27.8,0,1,0,0,0,3,0,0,0.04,0.04,0,0.04,https://fbref.com/en/players/40134a35/Lars-Saetra
+NA,2021 Kalmar,,Sebastian Ring,SWE,"DF,MF",25,28,28,2449,27.2,3,2,3,0,0,9,0,0.11,0.07,0.18,0.11,0.18,https://fbref.com/en/players/cfe4071d/Sebastian-Ring
+NA,2021 Kalmar,,Lucas Hägg-Johansson,SWE,GK,26,26,26,2340,26,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/0e014062/Lucas-Hagg-Johansson
+NA,2021 Kalmar,,Jonathan Ring,SWE,"FW,MF",29,28,26,2311,25.7,8,9,7,1,1,3,0,0.31,0.35,0.66,0.27,0.62,https://fbref.com/en/players/a9780d60/Jonathan-Ring
+NA,2021 Kalmar,,Rasmus Sjöstedt,SWE,DF,28,23,22,1885,20.9,1,1,1,0,0,2,0,0.05,0.05,0.1,0.05,0.1,https://fbref.com/en/players/b8b8b314/Rasmus-Sjostedt
+NA,2021 Kalmar,,Nils Fröling,SWE,"MF,FW",20,27,22,1724,19.2,4,4,4,0,0,1,0,0.21,0.21,0.42,0.21,0.42,https://fbref.com/en/players/5c9c3b66/Nils-Froling
+NA,2021 Kalmar,,Doug Bergqvist,SWE,DF,27,17,15,1268,14.1,1,0,1,0,0,2,0,0.07,0,0.07,0.07,0.07,https://fbref.com/en/players/73221bb0/Doug-Bergqvist
+NA,2021 Kalmar,,Isak Jansson,SWE,FW,19,24,11,1206,13.4,6,3,6,0,0,2,0,0.45,0.22,0.67,0.45,0.67,https://fbref.com/en/players/a7664548/Isak-Jansson
+NA,2021 Kalmar,,Filip Sachpekidis,SWE,"FW,MF",23,20,11,947,10.5,0,2,0,0,0,2,0,0,0.19,0.19,0,0.19,https://fbref.com/en/players/08252569/Filip-Sachpekidis
+NA,2021 Kalmar,,Johan Stenmark,SWE,DF,21,15,8,739,8.2,1,0,1,0,0,2,0,0.12,0,0.12,0.12,0.12,https://fbref.com/en/players/a5a1a033/Johan-Stenmark
+NA,2021 Kalmar,,Noah Shamoun,SWE,"FW,MF",18,20,7,658,7.3,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/cb75ed1e/Noah-Shamoun
+NA,2021 Kalmar,,Tobias Andersson,SWE,GK,26,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/842b7900/Tobias-Andersson
+NA,2021 Kalmar,,Henrik Löfkvist,SWE,DF,25,6,2,227,2.5,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/5df150a5/Henrik-Lofkvist
+NA,2021 Kalmar,,Isak Magnusson,SWE,FW,22,5,2,158,1.8,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/2015ff07/Isak-Magnusson
+NA,2021 Kalmar,,Elias Olsson,SWE,DF,17,5,1,226,2.5,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/f539f7b7/Elias-Olsson
+NA,2021 Kalmar,,Victor Backman,SWE,MF,19,13,1,210,2.3,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/cc9bac69/Victor-Backman
+NA,2021 Kalmar,,Erik Israelsson,SWE,MF,31,9,1,137,1.5,1,0,1,0,0,1,0,0.66,0,0.66,0.66,0.66,https://fbref.com/en/players/e8ce206e/Erik-Israelsson
+NA,2021 Kalmar,,Emin Nouri,AZE,DF,35,7,1,95,1.1,0,0,0,0,0,4,0,0,0,0,0,0,https://fbref.com/en/players/b257f8b0/Emin-Nouri
+NA,2021 Kalmar,,Lukas Rhöse,SWE,DF,20,3,0,28,0.3,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/5c4da8de/Lukas-Rhose
+NA,2021 Kalmar,,Johan Arvidsson,SWE,MF,20,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/09758a88/Johan-Arvidsson
+NA,2021 Kalmar,,Moustafa Benshi,SYR,MF,19,2,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/3293de09/Moustafa-Benshi
+NA,2021 Kalmar,,Olle Lindh,SWE,MF,17,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/27628e5a/Olle-Lindh
+NA,2021 Kalmar,,Isak Vidjeskog,FIN,MF,16,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/819c5fcf/Isak-Vidjeskog
+NA,2021 Kalmar,,Casper Andersson,SWE,GK,15,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/a6f7c931/Casper-Andersson
+NA,2021 Kalmar,,Edvin Crona,SWE,MF,21,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/04187585/Edvin-Crona
+NA,2021 Kalmar,,Viktor Krüger,SWE,DF,20,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/b604cb85/Viktor-Kruger
+NA,2021 Kalmar,,Alex Mortensen,SWE,MF,18,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/e27159a1/Alex-Mortensen
+NA,2021 Kalmar,,Arton Podrimcaku,SWE,MF,19,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/b5f70e31/Arton-Podrimcaku
+NA,2021 Norrköping,,Oscar Jansson,SWE,GK,30,30,30,2700,30,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/a33c4ee2/Oscar-Jansson
+NA,2021 Norrköping,,Alexander Fransson,SWE,MF,26,30,30,2659,29.5,0,1,0,0,0,2,0,0,0.03,0.03,0,0.03,https://fbref.com/en/players/2e85c59c/Alexander-Fransson
+NA,2021 Norrköping,,Ishaq Abdulrazak,NGA,MF,18,30,30,2625,29.2,0,5,0,0,0,2,0,0,0.17,0.17,0,0.17,https://fbref.com/en/players/4d2d7ea5/Ishaq-Abdulrazak
+NA,2021 Norrköping,,Linus Wahlqvist,SWE,DF,24,28,28,2478,27.5,3,5,3,0,0,2,0,0.11,0.18,0.29,0.11,0.29,https://fbref.com/en/players/15a7b2f3/Linus-Wahlqvist
+NA,2021 Norrköping,,Samuel Adegbenro,NGA,"FW,MF",25,30,25,2328,25.9,17,2,17,0,0,3,0,0.66,0.08,0.73,0.66,0.73,https://fbref.com/en/players/884a8908/Samuel-Adegbenro
+NA,2021 Norrköping,,Marco Lund,DEN,DF,24,26,23,2007,22.3,0,0,0,0,0,7,0,0,0,0,0,0,https://fbref.com/en/players/9841dc99/Marco-Lund
+NA,2021 Norrköping,,Viktor Agardius,SWE,"DF,MF",31,24,23,1908,21.2,1,3,1,0,0,4,0,0.05,0.14,0.19,0.05,0.19,https://fbref.com/en/players/111d66b2/Viktor-Agardius
+NA,2021 Norrköping,,Henrik Castegren,SWE,DF,24,27,22,2005,22.3,1,2,1,0,0,6,0,0.04,0.09,0.13,0.04,0.13,https://fbref.com/en/players/ba20d6d1/Henrik-Castegren
+NA,2021 Norrköping,,Jonathan Levi,SWE,"FW,MF",25,27,22,1969,21.9,2,6,1,1,1,2,0,0.09,0.27,0.37,0.05,0.32,https://fbref.com/en/players/abcfaa50/Jonathan-Levi
+NA,2021 Norrköping,,Carl Björk,SWE,"FW,MF",21,26,19,1734,19.3,7,2,7,0,0,0,0,0.36,0.1,0.47,0.36,0.47,https://fbref.com/en/players/3b2bdc7e/Carl-Bjork
+NA,2021 Norrköping,,Ari Freyr Skúlason,ISL,"MF,DF",33,23,17,1566,17.4,2,2,2,0,0,4,0,0.11,0.11,0.23,0.11,0.23,https://fbref.com/en/players/cce93ecd/Ari-Freyr-Skulason
+NA,2021 Norrköping,,Ísak Jóhannesson,ISL,MF,17,15,15,1302,14.5,2,4,2,0,0,3,0,0.14,0.28,0.41,0.14,0.41,https://fbref.com/en/players/c16c4e3b/Isak-Johannesson
+NA,2021 Norrköping,,Kristoffer Khazeni,SWE,"MF,FW",25,20,11,896,10,1,2,1,0,0,2,0,0.1,0.2,0.3,0.1,0.3,https://fbref.com/en/players/8b2e1b87/Kristoffer-Khazeni
+NA,2021 Norrköping,,Christoffer Nyman,SWE,FW,28,16,9,875,9.7,5,0,5,0,1,1,0,0.51,0,0.51,0.51,0.51,https://fbref.com/en/players/f9e3ef15/Christoffer-Nyman
+NA,2021 Norrköping,,Maic Sema,SWE,"FW,MF",32,23,7,634,7,2,0,2,0,0,0,0,0.28,0,0.28,0.28,0.28,https://fbref.com/en/players/de78cee4/Maic-Sema
+NA,2021 Norrköping,,Sead Haksabanović,MNE,"FW,MF",21,7,7,630,7,0,4,0,0,0,1,0,0,0.57,0.57,0,0.57,https://fbref.com/en/players/d2fd7c14/Sead-Haksabanovic
+NA,2021 Norrköping,,Christopher Telo,SWE,"MF,DF",31,21,6,695,7.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/35e05d5b/Christopher-Telo
+NA,2021 Norrköping,,Theodore Rask,SWE,DF,20,9,2,245,2.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/d73d430b/Theodore-Rask
+NA,2021 Norrköping,,Dino Salihovic,SWE,MF,18,6,2,135,1.5,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/3be274de/Dino-Salihovic
+NA,2021 Norrköping,,Yahav Gurfinkel,ISR,MF,22,6,1,109,1.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/e93d8d1a/Yahav-Gurfinkel
+NA,2021 Norrköping,,Kevin Álvarez,HON,MF,24,2,1,37,0.4,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/049682ea/Kevin-Alvarez
+NA,2021 Norrköping,,Lucas Lima,SWE,FW,18,5,0,106,1.2,1,0,1,0,0,1,0,0.85,0,0.85,0.85,0.85,https://fbref.com/en/players/e6d8cd15/Lucas-Lima
+NA,2021 Norrköping,,Manasse Kusu,SWE,DF,19,3,0,26,0.3,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/b18a497e/Manasse-Kusu
+NA,2021 Norrköping,,Emanuel Chabo,SWE,FW,18,1,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/454ad0bd/Emanuel-Chabo
+NA,2021 Norrköping,,Jóhannes Bjarnason,ISL,MF,15,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/481ac871/Johannes-Bjarnason
+NA,2021 Norrköping,,Egzon Binaku,ALB,DF,25,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/63a304f3/Egzon-Binaku
+NA,2021 Norrköping,,Edvin Tellgren,SWE,DF,16,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/d113077c/Edvin-Tellgren
+NA,2021 Norrköping,,Julius Lindgren,SWE,GK,23,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/28b6e0f2/Julius-Lindgren
+NA,2021 Norrköping,,Finnur Tómas Pálmason,ISL,DF,19,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/878e2662/Finnur-Tomas-Palmason
+NA,2021 Göteborg,,Mattias Bjärsmyr,SWE,DF,35,30,30,2620,29.1,1,0,1,0,0,2,0,0.03,0,0.03,0.03,0.03,https://fbref.com/en/players/15927d77/Mattias-Bjarsmyr
+NA,2021 Göteborg,,Alexander Jallow,SWE,"DF,MF",22,30,30,2591,28.8,1,3,1,0,0,2,0,0.03,0.1,0.14,0.03,0.14,https://fbref.com/en/players/b04dff15/Alexander-Jallow
+NA,2021 Göteborg,,Tobias Sana,SWE,"MF,FW",31,29,29,2598,28.9,7,6,4,3,5,1,0,0.24,0.21,0.45,0.14,0.35,https://fbref.com/en/players/52a7bcfe/Tobias-Sana
+NA,2021 Göteborg,,Giannis Anestis,GRE,GK,29,28,28,2520,28,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/d3149135/Giannis-Anestis
+NA,2021 Göteborg,,August Erlingmark,SWE,"MF,DF",22,25,22,2007,22.3,1,0,1,0,0,8,0,0.04,0,0.04,0.04,0.04,https://fbref.com/en/players/ab54f943/August-Erlingmark
+NA,2021 Göteborg,,Gustav Svensson,SWE,MF,33,19,19,1661,18.5,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/733713ef/Gustav-Svensson
+NA,2021 Göteborg,,Marcus Berg,SWE,FW,34,18,18,1589,17.7,10,2,10,0,0,3,0,0.57,0.11,0.68,0.57,0.68,https://fbref.com/en/players/b39bf63f/Marcus-Berg
+NA,2021 Göteborg,,Carl Johansson,SWE,DF,26,18,18,1571,17.5,2,0,2,0,0,6,0,0.11,0,0.11,0.11,0.11,https://fbref.com/en/players/02f7a79a/Carl-Johansson
+NA,2021 Göteborg,,Hosam Aiesh,SYR,MF,25,23,18,1512,16.8,2,4,2,0,0,3,0,0.12,0.24,0.36,0.12,0.36,https://fbref.com/en/players/9d01ec0f/Hosam-Aiesh
+NA,2021 Göteborg,,Kolbeinn Sigþórsson,ISL,FW,30,17,16,1359,15.1,4,3,4,0,0,1,0,0.26,0.2,0.46,0.26,0.46,https://fbref.com/en/players/adf825b9/Kolbeinn-Sigthorsson
+NA,2021 Göteborg,,Oscar Wendt,SWE,DF,35,15,15,1338,14.9,2,3,2,0,0,1,0,0.13,0.2,0.34,0.13,0.34,https://fbref.com/en/players/b69261a0/Oscar-Wendt
+NA,2021 Göteborg,,Sebastian Eriksson,SWE,"MF,DF",32,16,14,1147,12.7,1,1,1,0,0,5,0,0.08,0.08,0.16,0.08,0.16,https://fbref.com/en/players/35d76360/Sebastian-Eriksson
+NA,2021 Göteborg,,Simon Thern,SWE,MF,28,19,12,1203,13.4,1,2,1,0,0,2,0,0.07,0.15,0.22,0.07,0.22,https://fbref.com/en/players/3933becd/Simon-Thern
+NA,2021 Göteborg,,Gustaf Norlin,SWE,MF,24,23,9,1000,11.1,0,1,0,0,0,1,0,0,0.09,0.09,0,0.09,https://fbref.com/en/players/f4b1ae84/Gustaf-Norlin
+NA,2021 Göteborg,,Oscar Wilhelmsson,SWE,FW,17,14,9,781,8.7,2,1,2,0,0,0,0,0.23,0.12,0.35,0.23,0.35,https://fbref.com/en/players/e7f4869a/Oscar-Wilhelmsson
+NA,2021 Göteborg,,Alhassan Yusuf,NGA,MF,20,10,9,762,8.5,0,2,0,0,0,0,0,0,0.24,0.24,0,0.24,https://fbref.com/en/players/0de73fa4/Alhassan-Yusuf
+NA,2021 Göteborg,,Kevin Yakob,SWE,"MF,FW",20,23,8,931,10.3,2,1,2,0,0,2,0,0.19,0.1,0.29,0.19,0.29,https://fbref.com/en/players/18d3b8df/Kevin-Yakob
+NA,2021 Göteborg,,Jesper Tolinsson,SWE,DF,17,8,8,702,7.8,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/1a5fa6a3/Jesper-Tolinsson
+NA,2021 Göteborg,,Marek Hamšík,SVK,MF,33,6,5,441,4.9,1,1,1,0,0,0,0,0.2,0.2,0.41,0.2,0.41,https://fbref.com/en/players/e6ad16b2/Marek-Hamsik
+NA,2021 Göteborg,,Bernardo Jeronimo,BRA,DF,22,6,5,354,3.9,1,0,1,0,0,1,0,0.25,0,0.25,0.25,0.25,https://fbref.com/en/players/b611d0d6/Bernardo-Jeronimo
+NA,2021 Göteborg,,Yahya Kalley,SWE,DF,19,8,3,290,3.2,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/b1120985/Yahya-Kalley
+NA,2021 Göteborg,,Robin Söder,SWE,FW,29,16,2,284,3.2,2,0,2,0,0,0,0,0.63,0,0.63,0.63,0.63,https://fbref.com/en/players/9ecca9b5/Robin-Soder
+NA,2021 Göteborg,,Adam Benediktsson,ISL,GK,18,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/8be7e8db/Adam-Benediktsson
+NA,2021 Göteborg,,Pontus Wernbloom,SWE,MF,34,6,1,137,1.5,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/d7398ac3/Pontus-Wernbloom
+NA,2021 Göteborg,,Filip Ambroz,CRO,MF,17,6,0,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/493dff05/Filip-Ambroz
+NA,2021 Göteborg,,Isak Dahlqvist,SWE,FW,19,3,0,56,0.6,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/19965b27/Isak-Dahlqvist
+NA,2021 Göteborg,,Noah Alexandersson,SWE,MF,19,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/6caf5840/Noah-Alexandersson
+NA,2021 Göteborg,,Lucas Kåhed,SWE,MF,18,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/76b131a9/Lucas-Kahed
+NA,2021 Göteborg,,Hannes Lennartsson,SWE,DF,18,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/389463be/Hannes-Lennartsson
+NA,2021 Göteborg,,Alfons Nygaard,SWE,FW,18,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/18ea772e/Alfons-Nygaard
+NA,2021 Göteborg,,Ole Söderberg,SWE,GK,30,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/3fb2bb70/Ole-Soderberg
+NA,2021 Mjällby,,Max Watson,SWE,DF,24,29,29,2605,28.9,0,1,0,0,0,3,0,0,0.03,0.03,0,0.03,https://fbref.com/en/players/18d95619/Max-Watson
+NA,2021 Mjällby,,Kadir Hodzic,SWE,MF,26,29,29,2492,27.7,2,3,1,1,1,5,0,0.07,0.11,0.18,0.04,0.14,https://fbref.com/en/players/2cf7a1e8/Kadir-Hodzic
+NA,2021 Mjällby,,Joel Nilsson,SWE,MF,26,30,27,2401,26.7,5,5,5,0,0,2,0,0.19,0.19,0.37,0.19,0.37,https://fbref.com/en/players/6e5e4890/Joel-Nilsson
+NA,2021 Mjällby,,Jesper Gustavsson,SWE,"MF,FW",26,28,26,2217,24.6,0,2,0,0,0,8,0,0,0.08,0.08,0,0.08,https://fbref.com/en/players/34376913/Jesper-Gustavsson
+NA,2021 Mjällby,,Jacob Bergström,SWE,FW,25,29,24,2280,25.3,9,2,9,0,0,3,0,0.36,0.08,0.43,0.36,0.43,https://fbref.com/en/players/665d3deb/Jacob-Bergstrom
+NA,2021 Mjällby,,Ivan Kričak,SRB,DF,24,24,23,1958,21.8,0,0,0,0,0,8,1,0,0,0,0,0,https://fbref.com/en/players/1f490a0c/Ivan-Kricak
+NA,2021 Mjällby,,Carljohan Eriksson,FIN,GK,25,20,20,1800,20,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/058b630f/Carljohan-Eriksson
+NA,2021 Mjällby,,Viktor Gustafsson,SWE,MF,25,27,19,1603,17.8,0,1,0,0,0,6,0,0,0.06,0.06,0,0.06,https://fbref.com/en/players/385c6006/Viktor-Gustafsson
+NA,2021 Mjällby,,David Löfquist,SWE,"MF,FW",34,25,19,1600,17.8,0,4,0,0,1,5,0,0,0.23,0.23,0,0.23,https://fbref.com/en/players/ccbf0746/David-Lofquist
+NA,2021 Mjällby,,Amin Sarr,SWE,FW,19,19,18,1480,16.4,8,1,7,1,1,2,0,0.49,0.06,0.55,0.43,0.49,https://fbref.com/en/players/d5326924/Amin-Sarr
+NA,2021 Mjällby,,Carlos Moros Garcia,ESP,DF,27,17,16,1462,16.2,1,1,1,0,0,2,0,0.06,0.06,0.12,0.06,0.12,https://fbref.com/en/players/defa2ae9/Carlos-Moros-Garcia
+NA,2021 Mjällby,,Elias Andersson,SWE,MF,25,16,15,1227,13.6,1,2,1,0,0,1,0,0.07,0.15,0.22,0.07,0.22,https://fbref.com/en/players/d0d3bcc7/Elias-Andersson
+NA,2021 Mjällby,,Enoch Kofi Adu,GHA,MF,30,19,12,911,10.1,0,1,0,0,0,3,1,0,0.1,0.1,0,0.1,https://fbref.com/en/players/8f43c32d/Enoch-Kofi-Adu
+NA,2021 Mjällby,,Eric Björkander,SWE,DF,24,11,11,990,11,1,0,1,0,0,0,0,0.09,0,0.09,0.09,0.09,https://fbref.com/en/players/141935d3/Eric-Bjorkander
+NA,2021 Mjällby,,Andreas Blomqvist,SWE,"MF,FW",28,26,10,1080,12,0,1,0,0,0,1,0,0,0.08,0.08,0,0.08,https://fbref.com/en/players/ad454818/Andreas-Blomqvist
+NA,2021 Mjällby,,Samuel Brolin,SWE,GK,20,10,10,900,10,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/82fdcbec/Samuel-Brolin
+NA,2021 Mjällby,,Mamudo Moro,GHA,FW,25,27,8,821,9.1,6,1,6,0,0,2,0,0.66,0.11,0.77,0.66,0.77,https://fbref.com/en/players/79c65b89/Mamudo-Moro
+NA,2021 Mjällby,,Daan Klinkenberg,NED,DF,25,7,6,513,5.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/5c48912b/Daan-Klinkenberg
+NA,2021 Mjällby,,Magnus Wørts,DEN,DF,21,10,5,557,6.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/d9a29c01/Magnus-Worts
+NA,2021 Mjällby,,Noah Persson,SWE,MF,17,10,1,194,2.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/8830d81d/Noah-Persson
+NA,2021 Mjällby,,Sam Johnson,LBR,FW,27,5,1,88,1,1,0,1,0,0,0,0,1.02,0,1.02,1.02,1.02,https://fbref.com/en/players/c423d845/Sam-Johnson
+NA,2021 Mjällby,,Otto Rosengren,,MF,,2,1,66,0.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/1c6f0559/Otto-Rosengren
+NA,2021 Mjällby,,Taylor Silverholt,SWE,FW,19,6,0,89,1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/868b9f43/Taylor-Silverholt
+NA,2021 Mjällby,,Herman Johansson,SWE,FW,23,7,0,86,1,0,1,0,0,0,1,0,0,1.05,1.05,0,1.05,https://fbref.com/en/players/6f864562/Herman-Johansson
+NA,2021 Mjällby,,Adam Petersson,SWE,MF,20,5,0,53,0.6,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/f94ed56a/Adam-Petersson
+NA,2021 Mjällby,,Josip Filipovic,CRO,DF,24,3,0,50,0.6,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/28a57f0e/Josip-Filipovic
+NA,2021 Mjällby,,Neftali Manzambi,ANG,MF,23,4,0,41,0.5,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/da2ced9c/Neftali-Manzambi
+NA,2021 Mjällby,,Ludvig Carlius,SWE,MF,19,1,0,13,0.1,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/7c605365/Ludvig-Carlius
+NA,2021 Mjällby,,Marc Tokich,AUS,MF,21,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/6870f080/Marc-Tokich
+NA,2021 Varberg,,Joakim Lindner,SWE,DF,29,30,30,2665,29.6,1,1,1,0,0,2,0,0.03,0.03,0.07,0.03,0.07,https://fbref.com/en/players/62d86cad/Joakim-Lindner
+NA,2021 Varberg,,Tashreeq Matthews,RSA,"FW,MF",20,27,23,1901,21.1,5,5,5,0,0,5,0,0.24,0.24,0.47,0.24,0.47,https://fbref.com/en/players/fd18e7a1/Tashreeq-Matthews
+NA,2021 Varberg,,Oliver Stanisic,SWE,DF,26,26,22,2049,22.8,5,0,5,0,0,4,0,0.22,0,0.22,0.22,0.22,https://fbref.com/en/players/b884c338/Oliver-Stanisic
+NA,2021 Varberg,,Jean,BRA,"DF,MF",25,23,21,1860,20.7,0,5,0,0,0,6,0,0,0.24,0.24,0,0.24,https://fbref.com/en/players/50b5a935/Jean
+NA,2021 Varberg,,Albert Ejupi,SWE,MF,28,23,20,1714,19,0,0,0,0,0,6,0,0,0,0,0,0,https://fbref.com/en/players/aae04d1c/Albert-Ejupi
+NA,2021 Varberg,,Stojan Lukić,BIH,GK,41,20,20,1712,19,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/02dd033c/Stojan-Lukic
+NA,2021 Varberg,,Anton Liljenbäck,SWE,"MF,DF",25,28,19,1861,20.7,1,2,1,0,0,3,0,0.05,0.1,0.15,0.05,0.15,https://fbref.com/en/players/bbc47841/Anton-Liljenback
+NA,2021 Varberg,,Luke Le Roux,RSA,MF,20,26,19,1694,18.8,0,0,0,0,0,8,2,0,0,0,0,0,https://fbref.com/en/players/e30117aa/Luke-Le-Roux
+NA,2021 Varberg,,Robin Tranberg,SWE,"MF,FW",27,25,19,1421,15.8,1,0,1,0,0,8,0,0.06,0,0.06,0.06,0.06,https://fbref.com/en/players/c1ba89bf/Robin-Tranberg
+NA,2021 Varberg,,Hampus Zackrisson,SWE,DF,26,20,17,1471,16.3,0,0,0,0,0,7,0,0,0,0,0,0,https://fbref.com/en/players/6e784c33/Hampus-Zackrisson
+NA,2021 Varberg,,Robin Simović,SWE,FW,29,20,15,1346,15,3,0,3,0,0,5,0,0.2,0,0.2,0.2,0.2,https://fbref.com/en/players/4a4d38ca/Robin-Simovic
+NA,2021 Varberg,,Ryan Moon,RSA,"FW,MF",24,25,14,1362,15.1,7,1,6,1,1,5,0,0.46,0.07,0.53,0.4,0.46,https://fbref.com/en/players/9a712f78/Ryan-Moon
+NA,2021 Varberg,,Gideon Mensah,GHA,"MF,DF",20,20,14,1122,12.5,0,0,0,0,0,7,0,0,0,0,0,0,https://fbref.com/en/players/708ee0c0/Gideon-Mensah
+NA,2021 Varberg,,Jon Birkfeldt,SWE,DF,24,13,11,869,9.7,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/c0ded652/Jon-Birkfeldt
+NA,2021 Varberg,,Simon Adjei,SWE,FW,27,24,10,1028,11.4,4,2,3,1,1,0,0,0.35,0.18,0.53,0.26,0.44,https://fbref.com/en/players/f77dcf95/Simon-Adjei
+NA,2021 Varberg,,Albin Winbo,SWE,MF,23,24,9,933,10.4,1,0,1,0,0,8,0,0.1,0,0.1,0.1,0.1,https://fbref.com/en/players/2b5cd02e/Albin-Winbo
+NA,2021 Varberg,,Adama Fofana,CIV,"MF,DF",21,13,9,855,9.5,0,2,0,0,0,2,0,0,0.21,0.21,0,0.21,https://fbref.com/en/players/c98a3b4a/Adama-Fofana
+NA,2021 Varberg,,Victor Karlsson,SWE,"FW,MF",19,18,6,600,6.7,2,3,2,0,0,1,0,0.3,0.45,0.75,0.3,0.75,https://fbref.com/en/players/a1e70080/Victor-Karlsson
+NA,2021 Varberg,,Alexander Johansson,SWE,"FW,MF",25,14,5,606,6.7,3,3,3,0,0,3,0,0.45,0.45,0.89,0.45,0.89,https://fbref.com/en/players/94180993/Alexander-Johansson
+NA,2021 Varberg,,Philip Mårtensson,SWE,GK,27,6,5,538,6,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/666bba9d/Philip-Martensson
+NA,2021 Varberg,,Oliver Alfonsi,SWE,"MF,FW",17,15,5,475,5.3,1,0,1,0,0,3,0,0.19,0,0.19,0.19,0.19,https://fbref.com/en/players/63cf1a8a/Oliver-Alfonsi
+NA,2021 Varberg,,August Strömberg,SWE,GK,28,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/db810c46/August-Stromberg
+NA,2021 Varberg,,Des Kunst,NED,"FW,MF",21,8,5,361,4,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/a53e8fce/Des-Kunst
+NA,2021 Varberg,,Albin Mörfelt,SWE,"MF,FW",21,6,4,319,3.5,1,1,1,0,0,1,0,0.28,0.28,0.56,0.28,0.56,https://fbref.com/en/players/885b817b/Albin-Morfelt
+NA,2021 Varberg,,André Boman,SWE,"MF,FW",19,7,3,255,2.8,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/5f58ba26/Andre-Boman
+NA,2021 Varberg,,Keanin Ayer Boya,RSA,MF,20,3,0,54,0.6,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/5b5c4d01/Keanin-Ayer-Boya
+NA,2021 Varberg,,Montader Madjed,SWE,FW,15,2,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/048293db/Montader-Madjed
+NA,2021 Varberg,,Daniel Krezic,MKD,MF,24,1,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/1fdbc6b7/Daniel-Krezic
+NA,2021 Varberg,,Adnan Kojic,SWE,DF,25,2,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/e6b1eef7/Adnan-Kojic
+NA,2021 Varberg,,Noah Johansson,SWE,DF,17,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/4bb5e605/Noah-Johansson
+NA,2021 Varberg,,Dean Solomons,RSA,DF,21,1,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/7c5d5b61/Dean-Solomons
+NA,2021 Varberg,,Viktor Dryselius,SWE,GK,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/5158fd38/Viktor-Dryselius
+NA,2021 Varberg,,Gustav Nordh,SWE,FW,20,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/ed5d9ecd/Gustav-Nordh
+NA,2021 Sirius,,Christian Kouakou,SWE,FW,25,30,30,2534,28.2,12,2,11,1,1,2,0,0.43,0.07,0.5,0.39,0.46,https://fbref.com/en/players/32f1bc0f/Christian-Kouakou
+NA,2021 Sirius,,Marcus Mathisen,DEN,"DF,MF",24,27,27,2430,27,2,2,2,0,0,5,0,0.07,0.07,0.15,0.07,0.15,https://fbref.com/en/players/221a1641/Marcus-Mathisen
+NA,2021 Sirius,,Jacob Ortmark,SWE,"MF,FW",23,28,26,2298,25.5,4,2,4,0,0,8,0,0.16,0.08,0.23,0.16,0.23,https://fbref.com/en/players/e8f5c328/Jacob-Ortmark
+NA,2021 Sirius,,Tim Björkström,SWE,DF,30,21,21,1890,21,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/d95042fd/Tim-Bjorkstrom
+NA,2021 Sirius,,Laorent Shabani,SWE,"MF,DF",21,28,21,1815,20.2,1,6,1,0,0,1,0,0.05,0.3,0.35,0.05,0.35,https://fbref.com/en/players/4c8ad16c/Laorent-Shabani
+NA,2021 Sirius,,Nahom Netabay,SWE,"MF,FW",26,26,21,1646,18.3,3,2,2,1,1,6,0,0.16,0.11,0.27,0.11,0.22,https://fbref.com/en/players/fc5e209e/Nahom-Netabay
+NA,2021 Sirius,,Joseph Colley,SWE,DF,21,23,19,1790,19.9,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/62e66c88/Joseph-Colley
+NA,2021 Sirius,,Adam Hellborg,SWE,MF,22,24,19,1660,18.4,3,1,3,0,0,11,0,0.16,0.05,0.22,0.16,0.22,https://fbref.com/en/players/19bb1ad8/Adam-Hellborg
+NA,2021 Sirius,,Moustafa Zeidan,SWE,MF,22,20,17,1561,17.3,3,1,3,0,0,0,0,0.17,0.06,0.23,0.17,0.23,https://fbref.com/en/players/eca2b6b8/Moustafa-Zeidan
+NA,2021 Sirius,,David Mitov Nilsson,MKD,GK,30,17,17,1530,17,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/34829444/David-Mitov-Nilsson
+NA,2021 Sirius,,Dennis Widgren,SWE,"MF,DF",26,18,16,1388,15.4,0,3,0,0,0,2,0,0,0.19,0.19,0,0.19,https://fbref.com/en/players/512a52c6/Dennis-Widgren
+NA,2021 Sirius,,Adam Ståhl,SWE,"MF,DF",26,24,15,1592,17.7,4,2,4,0,0,3,0,0.23,0.11,0.34,0.23,0.34,https://fbref.com/en/players/840207c9/Adam-Stahl
+NA,2021 Sirius,,Yukiya Sugita,JPN,"FW,MF",27,17,15,1129,12.5,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/8f7e132f/Yukiya-Sugita
+NA,2021 Sirius,,Jamie Roche,SWE,"DF,MF",19,22,14,1309,14.5,0,1,0,0,0,2,0,0,0.07,0.07,0,0.07,https://fbref.com/en/players/dbdbddb0/Jamie-Roche
+NA,2021 Sirius,,Patrick Nwadike,SWE,DF,22,11,10,813,9,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/b2cbe3ad/Patrick-Nwadike
+NA,2021 Sirius,,August Ahlin,SWE,GK,23,9,9,810,9,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/eac46b2b/August-Ahlin
+NA,2021 Sirius,,Axel Björnström,SWE,"MF,DF",25,9,9,810,9,0,1,0,0,0,2,0,0,0.11,0.11,0,0.11,https://fbref.com/en/players/8db38187/Axel-Bjornstrom
+NA,2021 Sirius,,Johan Karlsson,SWE,"MF,DF",23,22,8,695,7.7,1,1,1,0,0,1,0,0.13,0.13,0.26,0.13,0.26,https://fbref.com/en/players/03ee1876/Johan-Karlsson
+NA,2021 Sirius,,Edi Sylisufaj,SWE,"FW,MF",20,15,6,587,6.5,3,1,3,0,0,2,0,0.46,0.15,0.61,0.46,0.61,https://fbref.com/en/players/dc84aa79/Edi-Sylisufaj
+NA,2021 Sirius,,Karl Larson,SWE,"MF,DF",29,21,4,433,4.8,0,1,0,0,0,0,0,0,0.21,0.21,0,0.21,https://fbref.com/en/players/5329a699/Karl-Larson
+NA,2021 Sirius,,Hannes Sveijer,SWE,GK,18,5,4,361,4,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/3df2d5aa/Hannes-Sveijer
+NA,2021 Sirius,,Mohammed Saeid,ERI,FW,30,12,2,366,4.1,1,1,1,0,0,1,0,0.25,0.25,0.49,0.25,0.49,https://fbref.com/en/players/49649775/Mohammed-Saeid
+NA,2021 Sirius,,Herman Sjögrell,SWE,FW,19,7,0,110,1.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/f5ea4560/Herman-Sjogrell
+NA,2021 Sirius,,Ekin Bulut,SWE,FW,24,5,0,49,0.5,1,0,1,0,0,0,0,1.84,0,1.84,1.84,1.84,https://fbref.com/en/players/1907a740/Ekin-Bulut
+NA,2021 Sirius,,Adam Vikman,SWE,MF,17,2,0,36,0.4,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/677889a9/Adam-Vikman
+NA,2021 Sirius,,Joakim Persson,SWE,FW,18,3,0,31,0.3,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/8092f486/Joakim-Persson
+NA,2021 Sirius,,Aron Bjarnason,ISL,FW,25,2,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/a6e092ea/Aron-Bjarnason
+NA,2021 Sirius,,Tim Olsson,SWE,DF,16,1,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/8167c62f/Tim-Olsson
+NA,2021 Sirius,,Karim Fegrouche,MAR,GK,38,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/d543c870/Karim-Fegrouche
+NA,2021 Sirius,,Noel Hansson,SWE,DF,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/6c5ce344/Noel-Hansson
+NA,2021 Sirius,,Emil Özkan,SWE,MF,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/4239e84c/Emil-Ozkan
+NA,2021 Sirius,,Samuel Wikman,SWE,MF,19,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/f98d3c3b/Samuel-Wikman
+NA,2021 Häcken,,Godswill Ekpolo,NGA,"DF,MF",25,29,29,2584,28.7,3,2,3,0,0,4,0,0.1,0.07,0.17,0.1,0.17,https://fbref.com/en/players/9f74c39b/Godswill-Ekpolo
+NA,2021 Häcken,,Gustav Berggren,SWE,MF,23,27,27,2374,26.4,1,5,1,0,0,8,0,0.04,0.19,0.23,0.04,0.23,https://fbref.com/en/players/b8103669/Gustav-Berggren
+NA,2021 Häcken,,Leo Bengtsson,SWE,"MF,FW",22,28,26,2117,23.5,6,1,6,0,0,7,0,0.26,0.04,0.3,0.26,0.3,https://fbref.com/en/players/25cde772/Leo-Bengtsson
+NA,2021 Häcken,,Alexander Jeremejeff,SWE,FW,27,27,25,2235,24.8,11,3,6,5,5,2,0,0.44,0.12,0.56,0.24,0.36,https://fbref.com/en/players/54394643/Alexander-Jeremejeff
+NA,2021 Häcken,,Joona Toivio,FIN,DF,32,25,24,2031,22.6,1,0,1,0,0,2,0,0.04,0,0.04,0.04,0.04,https://fbref.com/en/players/2794a536/Joona-Toivio
+NA,2021 Häcken,,Patrik Wålemark,SWE,"MF,FW",19,29,23,1965,21.8,9,7,9,0,0,3,0,0.41,0.32,0.73,0.41,0.73,https://fbref.com/en/players/7d7660da/Patrik-Walemark
+NA,2021 Häcken,,Peter Abrahamsson,SWE,GK,32,21,21,1890,21,0,0,0,0,0,3,0,0,0,0,0,0,https://fbref.com/en/players/40e57039/Peter-Abrahamsson
+NA,2021 Häcken,,Tobias Karlsson,SWE,"DF,MF",25,20,19,1707,19,0,0,0,0,0,6,0,0,0,0,0,0,https://fbref.com/en/players/29f54da0/Tobias-Karlsson
+NA,2021 Häcken,,Johan Hammar,SWE,DF,26,24,19,1656,18.4,0,1,0,0,0,7,2,0,0.05,0.05,0,0.05,https://fbref.com/en/players/9dc0fa97/Johan-Hammar
+NA,2021 Häcken,,Alexander Faltsetas,SWE,MF,33,24,15,1453,16.1,0,0,0,0,0,8,0,0,0,0,0,0,https://fbref.com/en/players/55fe5670/Alexander-Faltsetas
+NA,2021 Häcken,,Kristoffer Hansen,DEN,"DF,MF",18,15,15,1266,14.1,0,1,0,0,0,2,0,0,0.07,0.07,0,0.07,https://fbref.com/en/players/9e3e5d05/Kristoffer-Hansen
+NA,2021 Häcken,,Tobias Heintz,NOR,"MF,FW",22,18,15,1252,13.9,2,1,2,0,0,2,0,0.14,0.07,0.22,0.14,0.22,https://fbref.com/en/players/a69cf944/Tobias-Heintz
+NA,2021 Häcken,,Erik Friberg,SWE,MF,34,15,13,1015,11.3,0,2,0,0,0,6,0,0,0.18,0.18,0,0.18,https://fbref.com/en/players/3eaa3f36/Erik-Friberg
+NA,2021 Häcken,,Bénie Adama Traore,CIV,"MF,FW",18,27,12,1327,14.7,3,3,3,0,0,1,0,0.2,0.2,0.41,0.2,0.41,https://fbref.com/en/players/77816c91/Benie-Adama-Traore
+NA,2021 Häcken,,Martin Olsson,SWE,DF,32,10,10,784,8.7,1,2,1,0,0,3,1,0.11,0.23,0.34,0.11,0.34,https://fbref.com/en/players/2f72f79e/Martin-Olsson
+NA,2021 Häcken,,Pontus Dahlberg,SWE,GK,22,8,8,720,8,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/2475b06e/Pontus-Dahlberg
+NA,2021 Häcken,,Rasmus Lindgren,SWE,"DF,MF",36,11,8,715,7.9,1,0,1,0,0,3,0,0.13,0,0.13,0.13,0.13,https://fbref.com/en/players/5b18ad03/Rasmus-Lindgren
+NA,2021 Häcken,,Jasse Tuominen,FIN,"FW,MF",25,14,7,631,7,1,0,1,0,0,0,0,0.14,0,0.14,0.14,0.14,https://fbref.com/en/players/aaee68f1/Jasse-Tuominen
+NA,2021 Häcken,,Oskar Sverrisson,ISL,DF,28,16,3,441,4.9,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/5354a2a3/Oskar-Sverrisson
+NA,2021 Häcken,,Daleho Irandust,SWE,MF,22,7,3,338,3.8,2,1,2,0,0,2,0,0.53,0.27,0.8,0.53,0.8,https://fbref.com/en/players/371c77c6/Daleho-Irandust
+NA,2021 Häcken,,Ali Youssef,TUN,FW,20,7,3,274,3,2,0,2,0,0,0,0,0.66,0,0.66,0.66,0.66,https://fbref.com/en/players/2e820983/Ali-Youssef
+NA,2021 Häcken,,Valgeir Lunddal Friðriksson,ISL,DF,19,8,2,243,2.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/3945764e/Valgeir-Lunddal-Fridriksson
+NA,2021 Häcken,,Samuel Gustafson,SWE,MF,26,4,2,126,1.4,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/b1e61f23/Samuel-Gustafson
+NA,2021 Häcken,,Johan Brattberg,SWE,GK,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/3906ff9b/Johan-Brattberg
+NA,2021 Häcken,,Franklin Tebo,NGA,DF,21,5,0,176,2,0,1,0,0,0,0,0,0,0.51,0.51,0,0.51,https://fbref.com/en/players/b37c5951/Franklin-Tebo
+NA,2021 Häcken,,Samir Maarouf,SWE,MF,20,7,0,87,1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/ae5ecaf7/Samir-Maarouf
+NA,2021 Häcken,,Yannick Adjoumani,CIV,DF,18,3,0,83,0.9,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/ba6a293e/Yannick-Adjoumani
+NA,2021 Häcken,,Nasiru Mohammed,GHA,"FW,MF",26,2,0,47,0.5,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/082028fe/Nasiru-Mohammed
+NA,2021 Häcken,,William Milovanovic,SWE,MF,18,2,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/b3b7a592/William-Milovanovic
+NA,2021 Häcken,,Sebastian Lagerlund,SWE,MF,18,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/3de5c9a7/Sebastian-Lagerlund
+NA,2021 Häcken,,Leonardo Farah Shahin,SWE,FW,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/563c7bda/Leonardo-Farah-Shahin
+NA,2021 Häcken,,Jack Lahne,SWE,FW,19,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/07f73a4f/Jack-Lahne
+NA,2021 Häcken,,Alexander Nadj,SWE,GK,34,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/1b967b3a/Alexander-Nadj
+NA,2021 Häcken,,Jonathan Rasheed,NOR,GK,29,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/30b7d942/Jonathan-Rasheed
+NA,2021 Degerfors,,Victor Edvardsen,SWE,FW,25,29,29,2542,28.2,14,5,13,1,1,4,1,0.5,0.18,0.67,0.46,0.64,https://fbref.com/en/players/817f3a14/Victor-Edvardsen
+NA,2021 Degerfors,,Sebastian Ohlsson,SWE,DF,28,29,29,2540,28.2,0,3,0,0,0,5,0,0,0.11,0.11,0,0.11,https://fbref.com/en/players/335278f4/Sebastian-Ohlsson
+NA,2021 Degerfors,,Adam Carlén,SWE,MF,20,28,28,2476,27.5,1,2,1,0,0,6,1,0.04,0.07,0.11,0.04,0.11,https://fbref.com/en/players/5d2dd3fd/Adam-Carlen
+NA,2021 Degerfors,,Christos Gravius,SWE,MF,23,27,27,2354,26.2,0,3,0,0,0,6,0,0,0.11,0.11,0,0.11,https://fbref.com/en/players/9f10b799/Christos-Gravius
+NA,2021 Degerfors,,Oliver Ekroth,SWE,DF,29,26,25,2296,25.5,1,1,1,0,0,6,0,0.04,0.04,0.08,0.04,0.08,https://fbref.com/en/players/5707648e/Oliver-Ekroth
+NA,2021 Degerfors,,Sean Sabetkar,SWE,DF,25,26,22,1961,21.8,0,0,0,0,0,5,0,0,0,0,0,0,https://fbref.com/en/players/bdc92001/Sean-Sabetkar
+NA,2021 Degerfors,,Abdelrahman Saidi,SWE,"FW,MF",21,29,21,1872,20.8,4,4,4,0,0,4,0,0.19,0.19,0.38,0.19,0.38,https://fbref.com/en/players/c456358e/Abdelrahman-Saidi
+NA,2021 Degerfors,,Johan Bertilsson,SWE,"FW,MF",32,30,21,1866,20.7,8,2,5,3,3,1,0,0.39,0.1,0.48,0.24,0.34,https://fbref.com/en/players/52c3464a/Johan-Bertilsson
+NA,2021 Degerfors,,Erik Lindell,SWE,MF,24,25,17,1541,17.1,0,2,0,0,0,2,0,0,0.12,0.12,0,0.12,https://fbref.com/en/players/d2f41096/Erik-Lindell
+NA,2021 Degerfors,,Anton Kralj,SWE,MF,22,20,16,1330,14.8,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/d935c83b/Anton-Kralj
+NA,2021 Degerfors,,Ismael Diawara,MLI,GK,26,13,13,1170,13,0,0,0,0,0,3,0,0,0,0,0,0,https://fbref.com/en/players/a9107589/Ismael-Diawara
+NA,2021 Degerfors,,Alfie Whiteman,ENG,GK,22,13,13,1170,13,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/3f2587ee/Alfie-Whiteman
+NA,2021 Degerfors,,Gustav Granath,SWE,"DF,MF",23,18,12,1038,11.5,0,1,0,0,0,1,0,0,0.09,0.09,0,0.09,https://fbref.com/en/players/52cf894f/Gustav-Granath
+NA,2021 Degerfors,,Ferhad Ayaz,SWE,MF,26,14,11,740,8.2,1,1,1,0,0,0,0,0.12,0.12,0.24,0.12,0.24,https://fbref.com/en/players/bcdad511/Ferhad-Ayaz
+NA,2021 Degerfors,,Axel Lindahl,SWE,MF,25,15,10,809,9,1,1,1,0,0,2,0,0.11,0.11,0.22,0.11,0.22,https://fbref.com/en/players/eee8bff2/Axel-Lindahl
+NA,2021 Degerfors,,Sargon Abraham,SWE,"FW,MF",29,18,9,796,8.8,0,1,0,0,0,0,0,0,0.11,0.11,0,0.11,https://fbref.com/en/players/447ca633/Sargon-Abraham
+NA,2021 Degerfors,,Nikola Đurđić,SRB,FW,34,11,8,727,8.1,2,1,2,0,0,3,0,0.25,0.12,0.37,0.25,0.37,https://fbref.com/en/players/e61406e4/Nikola-Djurdjic
+NA,2021 Degerfors,,Daniel Janevski,SWE,DF,28,6,5,470,5.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/ee722e58/Daniel-Janevski
+NA,2021 Degerfors,,Villiam Dahlström,SWE,FW,23,21,4,593,6.6,2,0,2,0,0,1,0,0.3,0,0.3,0.3,0.3,https://fbref.com/en/players/9f95d007/Villiam-Dahlstrom
+NA,2021 Degerfors,,Justin Salmon,LBR,MF,22,8,4,371,4.1,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/7edc50a0/Justin-Salmon
+NA,2021 Degerfors,,Jeffrey Gal,SWE,GK,27,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/a689bb06/Jeffrey-Gal
+NA,2021 Degerfors,,Jonathan Tamimi,JOR,"MF,DF",26,18,2,488,5.4,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/bdd2c16c/Jonathan-Tamimi
+NA,2021 Degerfors,,Adhavan Rajamohan,SWE,FW,27,10,0,74,0.8,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/8282fc56/Adhavan-Rajamohan
+NA,2021 Degerfors,,Nicklas Maripuu,SWE,MF,28,3,0,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/873155c4/Nicklas-Maripuu
+NA,2021 Degerfors,,Jakob Andersson,SWE,MF,18,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/3e6760c0/Jakob-Andersson
+NA,2021 Degerfors,,Hugo Claesson,SWE,GK,18,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/5bfca104/Hugo-Claesson
+NA,2021 Degerfors,,Karl Serrano,SWE,GK,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/31ca92b4/Karl-Serrano
+NA,2021 Degerfors,,Christoffer Wiktorsson,SWE,DF,31,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/8257a77b/Christoffer-Wiktorsson
+NA,2021 Halmstad,,Andreas Johansson,SWE,DF,38,30,30,2700,30,1,0,1,0,0,2,0,0.03,0,0.03,0.03,0.03,https://fbref.com/en/players/49a0c4f9/Andreas-Johansson
+NA,2021 Halmstad,,Andreas Bengtsson,SWE,DF,24,30,30,2675,29.7,0,2,0,0,0,2,0,0,0.07,0.07,0,0.07,https://fbref.com/en/players/3d2c6036/Andreas-Bengtsson
+NA,2021 Halmstad,,Malkolm Nilsson,SWE,GK,27,29,29,2610,29,0,1,0,0,0,1,0,0,0.03,0.03,0,0.03,https://fbref.com/en/players/5662e81f/Malkolm-Nilsson
+NA,2021 Halmstad,,Amir Al Ammari,IRQ,MF,23,29,29,2609,29,3,0,3,0,0,5,0,0.1,0,0.1,0.1,0.1,https://fbref.com/en/players/9f65be73/Amir-Al-Ammari
+NA,2021 Halmstad,,Joel Allansson,SWE,MF,28,29,29,2580,28.7,0,1,0,0,0,3,0,0,0.03,0.03,0,0.03,https://fbref.com/en/players/097e650b/Joel-Allansson
+NA,2021 Halmstad,,Joseph Baffo,SWE,DF,28,28,28,2512,27.9,0,0,0,0,0,5,0,0,0,0,0,0,https://fbref.com/en/players/ee18a2b7/Joseph-Baffo
+NA,2021 Halmstad,,Edvin Kurtulus,SWE,DF,20,29,27,2381,26.5,0,2,0,0,0,5,0,0,0.08,0.08,0,0.08,https://fbref.com/en/players/5b136c33/Edvin-Kurtulus
+NA,2021 Halmstad,,Marcus Antonsson,SWE,FW,29,27,27,2279,25.3,6,0,4,2,2,0,0,0.24,0,0.24,0.16,0.16,https://fbref.com/en/players/ba3378a5/Marcus-Antonsson
+NA,2021 Halmstad,,Sadat Karim,GHA,FW,29,30,21,1935,21.5,5,2,5,0,0,0,0,0.23,0.09,0.33,0.23,0.33,https://fbref.com/en/players/caae2e5c/Sadat-Karim
+NA,2021 Halmstad,,Samuel Kroon,SWE,MF,24,22,21,1757,19.5,2,0,2,0,1,1,0,0.1,0,0.1,0.1,0.1,https://fbref.com/en/players/1ff9d55f/Samuel-Kroon
+NA,2021 Halmstad,,Thomas Boakye,GHA,"MF,DF",27,22,14,1362,15.1,0,2,0,0,0,2,1,0,0.13,0.13,0,0.13,https://fbref.com/en/players/241bcd55/Thomas-Boakye
+NA,2021 Halmstad,,Emil Töt Wikström,SWE,MF,21,28,13,1249,13.9,1,0,1,0,0,1,0,0.07,0,0.07,0.07,0.07,https://fbref.com/en/players/c5151b67/Emil-Tot-Wikstrom
+NA,2021 Halmstad,,Mikael Boman,SWE,FW,32,24,12,1096,12.2,2,1,2,0,0,0,0,0.16,0.08,0.25,0.16,0.25,https://fbref.com/en/players/975410dc/Mikael-Boman
+NA,2021 Halmstad,,Simon Lundevall,SWE,MF,32,22,12,1034,11.5,0,2,0,0,0,3,0,0,0.17,0.17,0,0.17,https://fbref.com/en/players/796d1e97/Simon-Lundevall
+NA,2021 Halmstad,,Erik Ahlstrand,SWE,MF,19,18,4,470,5.2,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/f6b692c0/Erik-Ahlstrand
+NA,2021 Halmstad,,Alexander Berntsson,SWE,DF,24,11,2,221,2.5,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/8b08c8d3/Alexander-Berntsson
+NA,2021 Halmstad,,Malte Påhlsson,SWE,GK,21,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/cacfa97f/Malte-Pahlsson
+NA,2021 Halmstad,,Phil Ofosu-Ayeh,GHA,DF,29,1,1,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/57467297/Phil-Ofosu-Ayeh
+NA,2021 Halmstad,,Alexander Johansson,SWE,FW,21,7,0,97,1.1,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/835023a5/Alexander-Johansson
+NA,2021 Halmstad,,Dusan Djurić,SWE,MF,36,1,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/b7d4b2d5/Dusan-Djuric
+NA,2021 Halmstad,,Albin Binnefors,SWE,FW,16,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/85f1e878/Albin-Binnefors
+NA,2021 Halmstad,,Pontus Carlsson,SWE,MF,16,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/57e80a71/Pontus-Carlsson
+NA,2021 Halmstad,,Kasper Karlsson,SWE,FW,20,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/fb439503/Kasper-Karlsson
+NA,2021 Halmstad,,Isac Larsson,SWE,DF,19,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/afd26084/Isac-Larsson
+NA,2021 Örebro,,Benjamin Hjertstrand,SWE,DF,27,28,26,2332,25.9,0,2,0,0,0,2,0,0,0.08,0.08,0,0.08,https://fbref.com/en/players/c801ab51/Benjamin-Hjertstrand
+NA,2021 Örebro,,Bobby Allain,FRA,GK,29,23,23,2070,23,0,0,0,0,0,4,0,0,0,0,0,0,https://fbref.com/en/players/8870154f/Bobby-Allain
+NA,2021 Örebro,,Johan Mårtensson,SWE,MF,31,24,23,1878,20.9,1,1,1,0,0,6,0,0.05,0.05,0.1,0.05,0.1,https://fbref.com/en/players/f160aad8/Johan-Martensson
+NA,2021 Örebro,,Andreas Skovgaard,DEN,DF,23,23,22,1962,21.8,0,0,0,0,0,8,1,0,0,0,0,0,https://fbref.com/en/players/43664f05/Andreas-Skovgaard
+NA,2021 Örebro,,David Seger,SWE,"MF,FW",21,29,22,1923,21.4,1,2,1,0,0,3,0,0.05,0.09,0.14,0.05,0.14,https://fbref.com/en/players/9fad4bf0/David-Seger
+NA,2021 Örebro,,Hussein Ali,SWE,"DF,MF",18,27,19,1630,18.1,0,2,0,0,0,3,0,0,0.11,0.11,0,0.11,https://fbref.com/en/players/b8a919ad/Hussein-Ali
+NA,2021 Örebro,,Dennis Collander,SWE,"MF,FW",18,21,18,1422,15.8,2,0,2,0,0,2,0,0.13,0,0.13,0.13,0.13,https://fbref.com/en/players/9b6a4927/Dennis-Collander
+NA,2021 Örebro,,Nahir Besara,SWE,"MF,FW",29,17,17,1494,16.6,4,4,3,1,1,3,0,0.24,0.24,0.48,0.18,0.42,https://fbref.com/en/players/2fadcd15/Nahir-Besara
+NA,2021 Örebro,,Kevin Walker,SWE,MF,31,19,17,1487,16.5,0,2,0,0,0,6,0,0,0.12,0.12,0,0.12,https://fbref.com/en/players/20701686/Kevin-Walker
+NA,2021 Örebro,,Michael Almebäck,SWE,DF,32,18,16,1374,15.3,0,0,0,0,0,3,0,0,0,0,0,0,https://fbref.com/en/players/8f2aa8b2/Michael-Almeback
+NA,2021 Örebro,,Jiloan Hamad,IRQ,MF,30,15,15,1288,14.3,0,1,0,0,0,2,1,0,0.07,0.07,0,0.07,https://fbref.com/en/players/a1d609ca/Jiloan-Hamad
+NA,2021 Örebro,,Deniz Hummet,TUR,"FW,MF",24,15,15,1276,14.2,5,0,5,0,0,2,0,0.35,0,0.35,0.35,0.35,https://fbref.com/en/players/754f87d6/Deniz-Hummet
+NA,2021 Örebro,,Kevin Wright,SLE,DF,25,15,14,1129,12.5,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/7aea4231/Kevin-Wright
+NA,2021 Örebro,,Nasiru Moro,GHA,DF,24,13,13,1104,12.3,0,1,0,0,0,3,1,0,0.08,0.08,0,0.08,https://fbref.com/en/players/3af81a69/Nasiru-Moro
+NA,2021 Örebro,,Nordin Gerzić,SWE,MF,37,23,10,1148,12.8,1,0,1,0,0,4,0,0.08,0,0.08,0.08,0.08,https://fbref.com/en/players/acc80246/Nordin-Gerzic
+NA,2021 Örebro,,Jake Larsson,SWE,"MF,FW",22,21,8,893,9.9,1,0,1,0,0,1,0,0.1,0,0.1,0.1,0.1,https://fbref.com/en/players/f05d3bb0/Jake-Larsson
+NA,2021 Örebro,,Daniel Björnquist,SWE,"DF,MF",32,19,8,874,9.7,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/903aa3e3/Daniel-Bjornquist
+NA,2021 Örebro,,Agon Mehmeti,ALB,FW,31,19,8,702,7.8,4,1,4,0,0,1,0,0.51,0.13,0.64,0.51,0.64,https://fbref.com/en/players/1a79bd22/Agon-Mehmeti
+NA,2021 Örebro,,Romain Gall,USA,MF,26,11,8,600,6.7,0,1,0,0,0,0,0,0,0.15,0.15,0,0.15,https://fbref.com/en/players/3da8cba0/Romain-Gall
+NA,2021 Örebro,,Mergim Krasniqi,SWE,GK,28,7,7,630,7,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/c26f9d5a/Mergim-Krasniqi
+NA,2021 Örebro,,Richard Friday,NGA,"MF,FW",20,9,6,616,6.8,0,0,0,0,0,3,0,0,0,0,0,0,https://fbref.com/en/players/1034f1e2/Richard-Friday
+NA,2021 Örebro,,Niclas Bergmark,SWE,DF,19,8,5,520,5.8,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/ac907675/Niclas-Bergmark
+NA,2021 Örebro,,Erik Björndahl,SWE,FW,30,12,3,354,3.9,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/87d38e82/Erik-Bjorndahl
+NA,2021 Örebro,,Noel Milleskog,SWE,"FW,MF",18,8,3,317,3.5,0,1,0,0,0,0,0,0,0.28,0.28,0,0.28,https://fbref.com/en/players/efd84678/Noel-Milleskog
+NA,2021 Örebro,,Martin Broberg,SWE,FW,30,10,2,230,2.6,1,1,1,0,0,1,0,0.39,0.39,0.78,0.39,0.78,https://fbref.com/en/players/ebf906a6/Martin-Broberg
+NA,2021 Örebro,,Ahmed Yasin Ghani,IRQ,FW,29,3,2,178,2,2,0,2,0,0,0,0,1.01,0,1.01,1.01,1.01,https://fbref.com/en/players/eb5383a8/Ahmed-Yasin-Ghani
+NA,2021 Örebro,,Patrick,BRA,FW,22,6,0,137,1.5,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/e0e410ae/Patrick
+NA,2021 Örebro,,Taha Abdi Ali,SWE,FW,22,2,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/da4b8a4e/Taha-Abdi-Ali
+NA,2021 Örebro,,Anton Ingves,SWE,MF,19,2,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/f4ec9183/Anton-Ingves
+NA,2021 Örebro,,Alfred Ajdarević,KVX,MF,22,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/2809ec8e/Alfred-Ajdarevic
+NA,2021 Örebro,,Robin Damstrom,SWE,,17,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/3ec4d3e5/Robin-Damstrom
+NA,2021 Örebro,,Johannes Danho,SWE,DF,16,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/ec1a1d65/Johannes-Danho
+NA,2021 Örebro,,Filip Ivarsson,,,,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/a350557e/Filip-Ivarsson
+NA,2021 Örebro,,Gustav Leijon,SWE,GK,19,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/2b7a07a6/Gustav-Leijon
+NA,2021 Östersund,,Eirik Haugan,NOR,DF,23,29,29,2548,28.3,0,0,0,0,1,5,0,0,0,0,0,0,https://fbref.com/en/players/857411ed/Eirik-Haugan
+NA,2021 Östersund,,Patrick Kpozo,GHA,"DF,MF",23,29,29,2541,28.2,2,2,2,0,0,4,1,0.07,0.07,0.14,0.07,0.14,https://fbref.com/en/players/50385760/Patrick-Kpozo
+NA,2021 Östersund,,Felix Hörberg,SWE,"MF,DF",21,26,25,2133,23.7,1,4,1,0,0,4,0,0.04,0.17,0.21,0.04,0.21,https://fbref.com/en/players/4e7d3d74/Felix-Horberg
+NA,2021 Östersund,,Blair Turgott,JAM,FW,26,24,24,2147,23.9,10,1,10,0,0,4,0,0.42,0.04,0.46,0.42,0.46,https://fbref.com/en/players/2c272afa/Blair-Turgott
+NA,2021 Östersund,,Noah Sonko Sundberg,GAM,DF,24,24,24,2143,23.8,1,2,1,0,0,5,0,0.04,0.08,0.13,0.04,0.13,https://fbref.com/en/players/f18c0f1f/Noah-Sonko-Sundberg
+NA,2021 Östersund,,Aly Keita,GUI,GK,34,24,24,2088,23.2,0,0,0,0,0,3,0,0,0,0,0,0,https://fbref.com/en/players/92c62328/Aly-Keita
+NA,2021 Östersund,,Ludvig Fritzson,SWE,MF,25,24,23,1875,20.8,1,1,1,0,0,6,0,0.05,0.05,0.1,0.05,0.1,https://fbref.com/en/players/768667c0/Ludvig-Fritzson
+NA,2021 Östersund,,Samuel Mensiro,GHA,"DF,MF",31,21,20,1660,18.4,0,0,0,0,0,4,1,0,0,0,0,0,https://fbref.com/en/players/1a97dc06/Samuel-Mensiro
+NA,2021 Östersund,,Henrik Bellman,SWE,MF,21,22,17,1448,16.1,0,2,0,0,0,3,0,0,0.12,0.12,0,0.12,https://fbref.com/en/players/940d842b/Henrik-Bellman
+NA,2021 Östersund,,Isak Ssewankambo,SWE,"MF,DF",24,18,17,1435,15.9,0,2,0,0,0,3,0,0,0.13,0.13,0,0.13,https://fbref.com/en/players/d457def7/Isak-Ssewankambo
+NA,2021 Östersund,,Nikolaos Dosis,SWE,"MF,DF",20,25,16,1543,17.1,0,0,0,0,0,3,0,0,0,0,0,0,https://fbref.com/en/players/64ed4f29/Nikolaos-Dosis
+NA,2021 Östersund,,Frank Arhin,GHA,MF,21,18,12,1072,11.9,0,0,0,0,0,4,1,0,0,0,0,0,https://fbref.com/en/players/c48130b7/Frank-Arhin
+NA,2021 Östersund,,Charlie Colkett,ENG,MF,24,15,10,934,10.4,0,0,0,0,0,2,0,0,0,0,0,0,https://fbref.com/en/players/ecf151ac/Charlie-Colkett
+NA,2021 Östersund,,Malcolm Stolt,SWE,"FW,MF",20,18,10,916,10.2,1,2,1,0,0,5,1,0.1,0.2,0.29,0.1,0.29,https://fbref.com/en/players/02bbfec2/Malcolm-Stolt
+NA,2021 Östersund,,Francis Jno-Baptiste,ENG,FW,21,14,8,626,7,2,1,2,0,0,1,0,0.29,0.14,0.43,0.29,0.43,https://fbref.com/en/players/628a1921/Francis-Jno-Baptiste
+NA,2021 Östersund,,Simon Kroon,SWE,"MF,FW",27,12,7,609,6.8,1,2,1,0,0,1,0,0.15,0.3,0.44,0.15,0.44,https://fbref.com/en/players/b9f1813f/Simon-Kroon
+NA,2021 Östersund,,Ronald Mukiibi,UGA,DF,29,9,7,576,6.4,2,0,2,0,0,0,0,0.31,0,0.31,0.31,0.31,https://fbref.com/en/players/b2f1fbd5/Ronald-Mukiibi
+NA,2021 Östersund,,Sebastian Grach,SWE,"FW,DF",19,20,6,808,9,1,0,1,0,0,1,0,0.11,0,0.11,0.11,0.11,https://fbref.com/en/players/72aefb0b/Sebastian-Grach
+NA,2021 Östersund,,Marco Weymans,BDI,"MF,DF",23,13,6,692,7.7,1,1,1,0,0,4,0,0.13,0.13,0.26,0.13,0.26,https://fbref.com/en/players/cac84ca4/Marco-Weymans
+NA,2021 Östersund,,Sixten Mohlin,CPV,GK,25,7,6,612,6.8,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/534f7745/Sixten-Mohlin
+NA,2021 Östersund,,Jerell Sellars,ENG,"MF,FW",25,14,5,601,6.7,0,0,0,0,0,1,0,0,0,0,0,0,https://fbref.com/en/players/84bf4600/Jerell-Sellars
+NA,2021 Östersund,,Nebiyou Perry,SWE,"FW,MF",21,9,5,455,5.1,0,1,0,0,0,0,0,0,0.2,0.2,0,0.2,https://fbref.com/en/players/c8a92587/Nebiyou-Perry
+NA,2021 Östersund,,Ahmed Awad,PLE,FW,28,9,0,135,1.5,1,1,1,0,0,0,0,0.67,0.67,1.33,0.67,1.33,https://fbref.com/en/players/7aacd2c4/Ahmed-Awad
+NA,2021 Östersund,,Kalpi Ouattara,CIV,DF,22,1,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,https://fbref.com/en/players/e15637d9/Kalpi-Ouattara
+NA,2021 Östersund,,Jakob Gustafsson,,MF,,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/0f9cd76c/Jakob-Gustafsson
+NA,2021 Östersund,,Andrew Mills,ENG,GK,26,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://fbref.com/en/players/6c897ea3/Andrew-Mills
